@@ -17,5 +17,10 @@ public class SpringbootMqApplication {
     public void test(){
         System.out.println("test你好");
     }
+    
+    //新增了一个add方法
+    public void add(){
+        
+    }
 
 }
