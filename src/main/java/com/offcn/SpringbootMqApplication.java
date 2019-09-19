@@ -24,4 +24,6 @@ public class SpringbootMqApplication {
         System.out.println("新增add");
     }
 
+
+
 }
